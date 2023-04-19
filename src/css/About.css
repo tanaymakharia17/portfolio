@@ -1,0 +1,31 @@
+
+
+#About {
+    padding: 0px 36px 10px;
+    font-size: 20px;
+    line-height: 1.4;
+}
+
+.About__education-school {
+    display: flex;
+    align-items: center;
+}
+
+.About__education-school-desc {
+    flex-basis: 80%;
+}
+.About__education-school-year {
+    flex-basis: 10%;
+}
+
+.About__education-school-img-wrapper {
+    flex-basis: 10%;
+    height: auto;
+    width: auto;
+}
+
+.About__education-school-img {
+    width:100px;
+    height:100px;
+
+}

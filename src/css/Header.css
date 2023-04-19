@@ -1,0 +1,123 @@
+
+#Header {
+    padding: 16px 16px 0;
+    justify-content: center;
+    display: grid;
+    height: 95%;
+    width: auto;
+    grid-template-rows: 10% 35% 10% 33% 7% 5%;
+    color: white;
+}
+
+#Header__profile-img-container {
+    width: auto;
+    height: auto;
+    justify-content: center;
+    display: flex;
+}
+
+#Header__profile-img {
+    width:200px;
+    height:250px;
+    border-radius: 4px;
+    /* padding: 2px; */
+    /* border: 1px solid #f2f3f3; */
+    /* box-shadow: 0px 0px 1px white; */
+}
+
+#Header__name {
+    width: auto;
+    height: auto;
+    justify-content: center;
+    display: flex;
+    font-family: 'Work Sans', sans-serif;
+}
+a {
+    text-decoration: none;
+    color: white;
+}
+/* a:hover {
+    text-decoration: none;
+    color: #EB0A1E;
+} */
+
+#Header__profile-links {
+    justify-content: center;
+    /* display: grid;
+    /* grid-template-columns: 50% 50%; */ 
+    text-align: center;
+    display: flex;
+    height: fit-content;
+
+}
+/* #Header__profile-links a{
+    border: 1px solid dodgerblue;
+    padding: 10px;
+    font-size: 20px;
+    font-weight: 600;
+    cursor: pointer;
+    font-family: 'Work Sans', sans-serif;
+} */
+
+
+#Header__profile-links a{
+    /* border: 1px solid dodgerblue; */
+    /* padding: 16px; */
+    margin: 16px;
+    font-size: 20px;
+    font-weight: 600;
+    cursor: pointer;
+    /* font-family: 'Work Sans', sans-serif; */
+}
+
+#Header__profile-links a img{
+    height: 45px;
+    width: 45px;
+    border-radius: 4px;
+}
+#Header__profile-links a img:hover {
+    box-shadow: 0px 0px 4px #EB0A1E;
+}
+
+#Header__apply-note {
+    background-color: #EB0A1E;
+    height: auto;
+    width: auto;
+    border-radius: 10px;
+    padding: 10px;
+    box-shadow: 0px 0px 4px white;
+    /* text-align: left; */
+    align-content: center;
+    display: grid;
+    justify-content: center;
+    font-size: 16px;
+    font-weight: 600;
+    margin-top: 10px;
+}
+
+#Header__routes {
+    display:inline-block;
+    justify-content: center;
+    align-content: center;
+    /* height: 100%;
+    width: 100%; */
+}
+
+.Header__routes-item {
+    margin: 10px 0px;
+    font-size: 20px;
+    font-weight: 600;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    border: 1px solid #EB0A1E;
+    border-radius: 4px;
+    /* width: auto; */
+}
+
+.Header__routes-item:hover {
+    /* color:white; */
+    background-color: #EB0A1E;
+    box-shadow: 0px 0px 4px white;
+    transition-duration: 400ms;
+}
