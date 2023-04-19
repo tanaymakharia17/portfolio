@@ -18,11 +18,11 @@ function App() {
         </div>
         <div id="App__right-section">
         <Routes>
-          <Route exact path="/" element={<About {...information} />} />
-          <Route exact path="/projects" element={<Projects {...information} />} />
-          <Route exact path="/skills" element={<Skills {...information} />} />
-          <Route exact path="/experience" element={<Experience {...information} />} />
-          <Route exact path="*" element={<Error {...information} />} />
+          <Route exa path="/" element={<About {...information} />} />
+          <Route path="/projects" element={<Projects {...information} />} />
+          <Route path="/skills" element={<Skills {...information} />} />
+          <Route path="/experience" element={<Experience {...information} />} />
+          <Route path="*" element={<Error {...information} />} />
         </Routes>
         </div>
       </div>
