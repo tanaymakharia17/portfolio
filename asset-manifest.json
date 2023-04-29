@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b4f150fe.css",
+    "main.js": "/static/js/main.330c33da.js",
+    "static/js/787.5809834d.chunk.js": "/static/js/787.5809834d.chunk.js",
+    "static/media/LNM-services.mp4": "/static/media/LNM-services.67f6bd576284d34745a2.mp4",
+    "static/media/NavicMap.mp4": "/static/media/NavicMap.aaa2f996eaed65f30837.mp4",
+    "static/media/profile-img.jpeg": "/static/media/profile-img.966e3efa10bba73584ba.jpeg",
+    "static/media/Visualgo.jpeg": "/static/media/Visualgo.acf21285767843e9c3cf.jpeg",
+    "static/media/reactjs.png": "/static/media/reactjs.809fed23bcdd686de66e.png",
+    "static/media/python.png": "/static/media/python.6a5cbc319ab3ddf8ef92.png",
+    "static/media/mysql.png": "/static/media/mysql.4610cbabbff468ff8ae3.png",
+    "static/media/java.png": "/static/media/java.ddf8676bd569fe01ab44.png",
+    "static/media/c++.png": "/static/media/c++.24a8f93854ab092f17a7.png",
+    "static/media/mongodb.png": "/static/media/mongodb.3267327599a9011812b1.png",
+    "static/media/git.png": "/static/media/git.848d8eb4034119060c76.png",
+    "static/media/django.png": "/static/media/django.559d0c6161a6fb950f02.png",
+    "static/media/school-lnmiit.jpeg": "/static/media/school-lnmiit.c9ddb3bacdc62df6004e.jpeg",
+    "static/media/css.png": "/static/media/css.463e319bad8e0edf1ef7.png",
+    "static/media/javascript.png": "/static/media/javascript.3dfb665e058d08c99f28.png",
+    "index.html": "/index.html",
+    "main.b4f150fe.css.map": "/static/css/main.b4f150fe.css.map",
+    "main.330c33da.js.map": "/static/js/main.330c33da.js.map",
+    "787.5809834d.chunk.js.map": "/static/js/787.5809834d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b4f150fe.css",
+    "static/js/main.330c33da.js"
+  ]
+}
