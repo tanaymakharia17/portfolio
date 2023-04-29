@@ -129,7 +129,19 @@ export const information = {
               "Key skills: Agile | Javascript| HTML/CSS | ReactJS | Redux | Git",
             ],
           },
-        }
+        },
+        {
+            img: "https://cdn-images-1.medium.com/max/184/1*CEC1iXf2TGEZr7O4yeaDNw@2x.png",
+            companyName: "OLX GROUP",
+            position: "Intern - Technology",
+            description: {
+              time: "Jan 2023 - present",
+              points: [
+                "Working with C2B team of autos division and experimenting with the front-end using A/B testing to increase customer procurement.",
+                "Key skills: Agile | Javascript| HTML/CSS | ReactJS | Redux | Git",
+              ],
+            },
+          }
     ],
     error: {
         message: "oop's page not found !!"
